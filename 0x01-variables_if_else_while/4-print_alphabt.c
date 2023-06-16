@@ -1,22 +1,19 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
 /**
  * main - Entry point
  * Return: 0 (Successful)
  */
 int main(void)
 {
-	int i:
+	char c;
 
-	for (i = 97; i < 123; i++)
-	{
-		if (i != 101 && i != 113)
-		{
-			putchar(i);
+	c = 'a';
+	while
+		(c <= 'z') {
+			if ((c != 'q' && c != 'e') && c <= 'z')
+				putchar(c);
+			c++;
 		}
-	}
 	putchar('\n');
 	return (0);
 }
