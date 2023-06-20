@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - prints _putchar
+ * main - print _putchar
  * is written by joe
- * Return: 0 (success)
+ * Return: 0
  */
 
 int main(void)
