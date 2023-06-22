@@ -2,7 +2,7 @@
 
 /**
 * main - Test function for positive or negative
-* Return: 0 (The while loop only)
+* Return: 0 (Success)
 */
 
 int main(void)
