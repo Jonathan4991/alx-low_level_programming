@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main - Program Prints a[2] = 98(void)
+int main(void)
 {
 int n;
 int a[5];
